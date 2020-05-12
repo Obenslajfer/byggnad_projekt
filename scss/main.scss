@@ -1,0 +1,88 @@
+header {
+    color: #2f3542;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.titletext{
+
+    color: #2f3542;
+    font-family: 'Abril Fatface', sans-serif;
+    font-size: 60px;  
+
+}
+
+
+article {
+
+
+    .thumbnail {
+        position: relative;
+        transition-duration: 0.3s;
+    }
+
+    .thumbnail:hover {
+        cursor: pointer;
+        transform: scale(1.1);
+        transition-duration: 0.3s;
+        
+    }
+    
+
+    .caption {
+        position: absolute;
+        top: 10%;
+        left: 0;
+        width: 100%; 
+        color: white;
+        font-size: 40px;
+        font-family: 'Abril Fatface', sans-serif;
+    }
+
+
+    .area-pic {
+        height: 300px;
+        width: 300px;
+        background-color: #f1f2f6;
+        color: #2f3542;
+
+
+        .size-img {
+            height: 300px;
+            width: 300px;
+            
+
+        }
+
+    }
+
+}
+
+h1,
+h2 {
+    font-family: 'Abril Fatface', sans-serif;
+}
+
+#vasastan {
+    .headtag {
+        font-size: 40px;
+
+    }
+}
+
+
+#kungsholmen {
+    .headtag {
+        font-size: 40px;
+    }
+    .col-12{
+        
+
+
+    img{
+        height: 200px;
+        width: auto;
+
+    }
+    }
+}
